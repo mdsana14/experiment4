@@ -12,13 +12,15 @@ Technologies:
 JavaScript ES6
 OpenWeatherMap API
 Chart.js
+html
+css
 
 Run Steps:
 Add your API key in script
 Open in browser
 
 GitHub Repo:
-🔗 https://github.com/yourusername/project4-weather-es6
+🔗 https://github.com/mdsana14/experiment4.git
 
 Live URL:
 🌐 https://your-live-link.com/project4-weather-es6
